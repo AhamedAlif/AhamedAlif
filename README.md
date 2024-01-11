@@ -19,9 +19,6 @@ Skills: JAVA / REACT / PYTHON / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAlif)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhamedAlif&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/insights/AhamedAlif)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AhamedAlif)  
+.[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhamedAlif&show_icons=true)  
+.[![GitHub streak stats](https://streak-stats.demolab.com/?user=AhamedAlif)  
 
